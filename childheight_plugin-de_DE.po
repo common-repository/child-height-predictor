@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Andreas Ostheimer <office@ostheimer.at>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ childheight_plugin
+#: childheight.php:19
+#: childheight.php:22
+msgid "Childheight Calculator"
+msgstr "Wachstumsrechner für Kinder"
+
+#@ childheight_plugin
+#: tpl/options-layout.php:5
+msgid "Options saved."
+msgstr "Einstellungen gespeichert."
+
+#@ childheight_plugin
+#: tpl/options-layout.php:12
+msgid "Childheight plugin Options"
+msgstr "Wachstumsrechner Einstellungen"
+
+#@ childheight_plugin
+#: tpl/options-layout.php:18
+msgid "Units system:"
+msgstr "Einheitensystem:"
+
+#@ childheight_plugin
+#: tpl/options-layout.php:23
+#: tpl/shortcode-layout.php:12
+#: tpl/widget-layout.php:12
+msgid "metric"
+msgstr "metrisch"
+
+#@ childheight_plugin
+#: tpl/options-layout.php:27
+#: tpl/shortcode-layout.php:16
+#: tpl/widget-layout.php:16
+msgid "us"
+msgstr "us"
+
+#@ childheight_plugin
+#: tpl/options-layout.php:33
+msgid "Update Options"
+msgstr "Einstellungen aktualisieren"
+
+#@ childheight_plugin
+#: tpl/script.php:30
+#: tpl/script.php:59
+#: tpl/shortcode-layout.php:27
+#: tpl/shortcode-layout.php:42
+#: tpl/widget-layout.php:27
+#: tpl/widget-layout.php:42
+msgid "in"
+msgstr "in"
+
+#@ childheight_plugin
+#: tpl/script.php:34
+#: tpl/script.php:61
+#: tpl/shortcode-layout.php:29
+#: tpl/shortcode-layout.php:44
+#: tpl/widget-layout.php:29
+#: tpl/widget-layout.php:44
+msgid "cm"
+msgstr "cm"
+
+#@ childheight_plugin
+#: tpl/script.php:38
+msgid "Your child's height will be <strong> {fromH} {units} to {toH} {units} </strong>"
+msgstr "Ihr Kind wird <strong> {fromH} {units} bis {toH} {units} groß werden.</strong>"
+
+#@ childheight_plugin
+#: tpl/script.php:44
+msgid "Here are the results based on the information you provided:"
+msgstr "Die Ergebnisse auf Basis der von Ihnen eingegebenen Daten:"
+
+#@ childheight_plugin
+#: tpl/script.php:49
+msgid "Please, enter correct values."
+msgstr "Bitte geben Sie korrekte Werte ein."
+
+#@ childheight_plugin
+#: tpl/shortcode-layout.php:4
+msgid "Child height Calculator shortcode"
+msgstr "Wachstumsrechner"
+
+#@ childheight_plugin
+#: tpl/shortcode-layout.php:8
+#: tpl/widget-layout.php:8
+msgid "Units:"
+msgstr "Einheit:"
+
+#@ childheight_plugin
+#: tpl/shortcode-layout.php:53
+#: tpl/widget-layout.php:53
+msgid "Sex of child:"
+msgstr "Geschlecht:"
+
+#@ childheight_plugin
+#: tpl/shortcode-layout.php:57
+#: tpl/widget-layout.php:57
+msgid "boy"
+msgstr "Junge"
+
+#@ childheight_plugin
+#: tpl/shortcode-layout.php:61
+#: tpl/widget-layout.php:61
+msgid "girl"
+msgstr "Mädchen"
+
+#@ childheight_plugin
+#: tpl/shortcode-layout.php:65
+#: tpl/widget-layout.php:65
+msgid "Calculate"
+msgstr "Berechnen"
+
+#@ childheight_plugin
+#: tpl/widget-control.php:3
+msgid "Width:"
+msgstr "Breite:"
+
+#@ childheight_plugin
+#: tpl/widget-control.php:9
+msgid "Height:"
+msgstr "Höhe:"
+
+#@ childheight_plugin
+#: tpl/widget-layout.php:4
+msgid "Childheight Calculator widget"
+msgstr "Wachstumsrechner Widget"
+
+#@ childheight_plugin
+#: tpl/shortcode-layout.php:22
+#: tpl/widget-layout.php:22
+msgid "Please enter father's height:"
+msgstr "Größe des Vaters in cm"
+
+#@ childheight_plugin
+#: tpl/shortcode-layout.php:37
+#: tpl/widget-layout.php:37
+msgid "Please enter mother's height:"
+msgstr "Größe der Mutter in cm"
+
